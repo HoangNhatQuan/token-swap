@@ -44,8 +44,8 @@ Click start: http://localhost:3000/
 ## Core Libraries Used
 
 | Package | Description | Version | Docs |
+| :-- | :-- | :--| :-- |
 | `@solana/spl-token` | Bindings for the token, token-2022, and associated-token-account programs | [![npm](https://img.shields.io/npm/v/@solana/spl-token.svg)](https://www.npmjs.com/package/@solana/spl-token) | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://solana-labs.github.io/solana-program-library/token/js) |
-
 | `@solana/spl-token-swap` | Bindings for the token-swap program | [![npm](https://img.shields.io/npm/v/@solana/spl-token-swap.svg)](https://www.npmjs.com/package/@solana/spl-token-swap) | N/A |
 
 
