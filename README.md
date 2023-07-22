@@ -6,7 +6,7 @@ We have the swap instruction implemented, the UI should be fully functional and 
 
 ## Preview
 
-![App Screenshot](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot_2023-02-27_at_12.08.40_AM_rXhphy-m8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677436733271)
+![image](https://github.com/HoangNhatQuan/token-swap/assets/98334389/6c45aa49-dc0c-4cfd-bf1c-ebc7c2eca85e)
 
 ## Features
 
@@ -43,7 +43,11 @@ Click start: http://localhost:3000/
 
 ## Core Libraries Used
 
-- [Next JS v13.1.6](https://reactjs.org/)
+| Package | Description | Version | Docs |
+| `@solana/spl-token` | Bindings for the token, token-2022, and associated-token-account programs | [![npm](https://img.shields.io/npm/v/@solana/spl-token.svg)](https://www.npmjs.com/package/@solana/spl-token) | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://solana-labs.github.io/solana-program-library/token/js) |
+
+| `@solana/spl-token-swap` | Bindings for the token-swap program | [![npm](https://img.shields.io/npm/v/@solana/spl-token-swap.svg)](https://www.npmjs.com/package/@solana/spl-token-swap) | N/A |
+
 
 ## Contributing
 
